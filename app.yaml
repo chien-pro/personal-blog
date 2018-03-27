@@ -40,3 +40,7 @@ skip_files:
   - ^testrunner\.py
   - ^grunt\.js
   - ^node_modules/(.*/)?
+  - ^node_modules\.*
+  - ^scaffolds\.*
+  - ^source\.*
+  - ^themes\.*
