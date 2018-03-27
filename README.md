@@ -1,15 +1,23 @@
 ### Install Hexo
->$ npm install -g hexo-cli
+```
+$ npm install -g hexo-cli
+```
 
 ### Install blog
->$ cd <personal-blog>
->$ npm install
+```
+$ cd <personal-blog>
+$ npm install
+```
 
 ### Run server
->$ hexo server
+```
+$ hexo server
+```
 
 ### Deploy
->$ hexo generate
->$ gcloud app deploy
+```
+$ hexo generate
+$ gcloud app deploy
+```
 
 ※ Need to install nodeJS and GCloud
