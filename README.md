@@ -21,3 +21,8 @@ $ gcloud app deploy
 ```
 
 ※ Need to install nodeJS and GCloud
+
+Hexo Doc
+```
+https://hexo.io/docs/
+```
