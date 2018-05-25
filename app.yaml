@@ -16,6 +16,10 @@ handlers:
   static_files: public/about/index.html
   upload: public/about/index.html
 
+- url: /story
+  static_files: public/story/index.html
+  upload: public/story/index.html
+
 - url: /(.*)/$
   static_files: public/\1/index.html
   upload: public/.*/index.html

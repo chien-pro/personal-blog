@@ -13,16 +13,15 @@ projects_url: https://github.com/Rolbackse
 # languages/*.yml
 nav:
   home: /
-  articles: /archives/
+  story: /story/
   about: /about/
-
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names 
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: https://github.com/Rolbackse
+#  github: https://github.com/Rolbackse
 #  twitter: /
 #  facebook: /
 #  linkedin: /

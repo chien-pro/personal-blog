@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ToanNV
+title: Toàn Nguyễn
 subtitle: 
 description: 
 keywords: 
@@ -13,7 +13,7 @@ timezone: Japan
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://akiranguyen.com
+url: https://toannv.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

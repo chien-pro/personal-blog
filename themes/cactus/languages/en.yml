@@ -1,18 +1,19 @@
 nav:
-  home: Home
+  home: Root
   about: About
-  articles: Writing
+  articles: Blog
   projects: Projects
   search: Search
+  story: Đại Chiến Tam Giới
 
 footer:
   copyright: Copyright
 
 index:
-  find_me_on: Find me on
+  find_me_on: Keep in touch
   enum_comma: ','
   enum_and: and
-  articles: Writing
+  articles: Blog
   projects: Projects
 
 post:
