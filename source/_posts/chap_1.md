@@ -1,7 +1,9 @@
 ---
 title: Chap 1 - Thế Giới X
 date: 2018-03-28 11:59:20
-tag: Đại Chiến Tam Giới
+tag:
+- Đại Chiến Tam Giới
+- Story
 ---
 Chíuuuuuuuuuu...
 Không dịch chuyển đến đích ngay lập tức như hai lần vừa rồi, lần này phải mất khoảng 5 giây thì tiếng chíu chíu điếc tai kia mới kết thúc. Trước mắt hắn bây giờ là một mảnh đất cực kì rộng. Không đúng hơn là một thung lũng cực kỳ, cực kỳ rộng lớn.

@@ -1,7 +1,9 @@
 ---
 title: Chap 2 - Lời Sấm Truyền
 date: 2018-03-28 16:35:21
-tag: Đại Chiến Tam Giới
+tag:
+- Đại Chiến Tam Giới
+- Story
 ---
 -- Lời Sấm Truyền? - Lúc này hắn ngạc nhiên hỏi lại.
 -- Có gì mà anh phải ngạc nhiên vậy?

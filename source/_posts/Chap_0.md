@@ -1,7 +1,9 @@
 ---
-title: Đại Chiến Tam Giới
-date: 2018-03-28 11:37:29
-tags: Đại Chiến Tam Giới
+title: Chap 0 - Mở đầu
+date: 2018-03-28 08:35:21
+tag:
+- Đại Chiến Tam Giới
+- Story
 ---
 ## Giới Thiệu
 Thành An - 27 tuổi là một nhà khoa học, nhà phát mình, nhà toán học, nhà vật lý học, nhà hóa học, nhà sinh vật học, triết gia... Nói chung hắn là một thiên tài. Được trời thiên phú cho cái tài nhìn một lần là nhớ, nhớ là hiểu, hiểu là có thể làm được. Vậy nên mới 27 tuổi những hắn đã sở hữu hơn 1000 bằng sáng chế, phát mình và n công trình khoa học cống hiến cho nhân loại.
@@ -19,7 +21,3 @@ Lúc này đây chỉ cần hắn di chuyển thì cả cỗ máy và hắn sẽ
 Lấy lại bình tĩnh:
 -- Đi đến chỗ nào cũng được, miễn là rộng rãi và thoáng mát.
 Chíuuuuuuuuuu...
-
-## Danh Sách Chương
-[Chap 1 - Thế Giới X](/2018/03/28/chap_1/)
-[Chap 2 - Lời Sấm Truyền](/2018/03/28/chap_2/)

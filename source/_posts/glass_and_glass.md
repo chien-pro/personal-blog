@@ -1,7 +1,9 @@
 ---
 title: グラスとガラス
 date: 2016-12-11 17:28:25
-tags: Japanese Culture
+tags:
+- Japanese Culture
+- Japanese
 ---
 トゥアンです。
 今までもう二年間ぐらい日本語を勉強しています。日本語の面白いさ不思議さ難しいさ少しわかってきたような気がします。

@@ -14,6 +14,16 @@ $ npm install
 $ hexo server
 ```
 
+### generate
+```
+$ hexo generate
+```
+
+### clean
+```
+$ hexo clean
+```
+
 ### Deploy
 ```
 $ hexo generate
@@ -25,4 +35,18 @@ $ gcloud app deploy
 Hexo Doc
 ```
 https://hexo.io/docs/
+```
+
+### Writing
+**New post**
+```
+hexo new post <title>
+```
+
+**multiple tag**
+```
+tags :
+- tag_1
+- tag_2
+- tag_n
 ```
